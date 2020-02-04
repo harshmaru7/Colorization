@@ -6,7 +6,7 @@
 hallucinating a plausible color version of the photograph.The problem we want to solve is a
 fully automatic approach to colorization devoid of any human interference. This project will also compare performances of different models and existing papers .
 
-- Project Proposal: https://github.com/Rakeshpavan333/colorization/blob/master/Colorization.pdf
+
 
 ### Highlights 
 - Each pixel is assigned a color from the appropriate region using a
@@ -18,5 +18,5 @@ al. [LLW04 ] .
 - Performance analysis over (a neural network model,a CNN model , auto encoder model and an
 encoder-decoder classifier) .
 
-- For a demo go to  : https://github.com/Rakeshpavan333/colorization/tree/master/demo
+
 
